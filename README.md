@@ -1,1 +1,1 @@
-# mosa-summer-of-code
+# MOSA Summer of Code
